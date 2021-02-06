@@ -1,0 +1,15 @@
+.block-details-main-wrapper {
+  margin: 0 auto;
+  width: 75rem;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.title-row {
+  margin-bottom: 2rem;
+}
+
+.transaction-list-item-wrapper {
+  background-color: white;
+  padding: 24px;
+}
